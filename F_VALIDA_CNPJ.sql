@@ -1,5 +1,3 @@
-USE [DATASAFE];
-GO
 
 /****** Object:  UserDefinedFunction [dbo].[F_VALIDA_CNPJ]    Script Date: 11/02/2025 15:55:14 ******/
 
